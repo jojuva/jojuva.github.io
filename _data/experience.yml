@@ -1,19 +1,37 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# New Technologies
+- company: Suez Spain
+  position: PM / Solution Architect
+  duration: Jul, 2011 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Define, configure and maintain tools for improving DevOps journey thru automation (GitLab, Nexus, Jenkins, Ansible, Docker, Jira, Confluence, SonarQube).</li><li>Migration to cloud on Azure IaaS and PaaS.</li><li>Maintain J2EE development Framework based on open source.</li><li>Define Mobilty strategy including apps and mobile backend architecture.</li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Consultant
+- company: Atos Origin
+  position: Team Lead / Consultant
+  duration:  Dic, 2007 &mdash; Jun, 2011
+  summary: <ul class="resume-item-list"><li>Maintaining MC Mutual public and private website to get in touch with their partners, insured companies and insured self-employed people.</li>
+           <li>Defining a tool to generate brochures for saving products with complex math operations at Banc de Sabadell.</li>
+           <li>Maintaining Ticketing management system for TMB network.</li>
+           <li>Implement Deutsche Bank PKI platform using a third party product (TrustedX – SafeLayer).</li>
+           <li>PKI platform (signing, verifying, time-stamping documents) for Spanish insurance company MGS.</li>
+           <li>J2ME TPL WEB Mobility Platform. Migrating existing application in C++ for PDA devices (windows ce) to J2ME for Nokia Phones.</li>
+           <li>Order Manager – KPN (Dutch Telco company) CRM that manages sales workflows on their internet products. Dashboard – New application to monitor OM sub-systems and other external systems.</li></ul>
 
+# Generalitat
+- company: T-Systems
+  position: Team Lead
+  duration:   May, 2006  &mdash; Dic, 2007
+  summary: Defining backlog, designing and developing some e-Justicia.cat's program components. MGD – Global Database Model, LOPD, CGPJ Compatibility Test, SIG – Digital Signature, EDI – Text processor tool and TRA – workflow processor.
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# Nissan
+- company: Atos Origin
+  position: Team Lead
+  duration:   Sep, 2004  &mdash; May, 2006
+  summary: Defining backlog, designing and developing for NISSAN UK. DRAGON – Direct and Rapid Access to Global Ordering Network. System to support the specification, ordering and delivery of vehicles built in Japan, Europe and South Africa for the General Overseas Market.
+
+# Major Events
+- company: Atos Origin
+  position: Team Lead / Developer
+  duration:   Abr, 1997  &mdash; Aug, 2004
+  summary: Delivering software for diferent major sporting events:<ul class="resume-item-list"><li>Torino 2006 Olympic Games</li><li>Athens 2004 Olympic Games</li><li>World Cup Korea/Japan 2002</li><li>Games Management Systems–Mediterranean Games 2001</li><li>Salt Lake 2002 Winter Games</li<li>Sydney 2000 Olympic Games</li><li>Asian Games Bangkok 98</li><li>Commonwealth Games Kualalumpur 98</li></ul>
+
