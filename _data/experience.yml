@@ -3,7 +3,11 @@
 - company: Suez Spain
   position: PM / Solution Architect
   duration: Jul, 2011 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Define, configure and maintain tools for improving DevOps journey thru automation (GitLab, Nexus, Jenkins, Ansible, Docker, Jira, Confluence, SonarQube).</li><li>Migration to cloud on Azure IaaS and PaaS.</li><li>Maintain J2EE development Framework based on open source.</li><li>Define Mobilty strategy including apps and mobile backend architecture.</li></ul>
+  summary: <ul class="resume-item-list">
+          <li>Design and validate solution architectures to satisfy business requirements (Microservices, Events Hub, Iot, Big Data, Cloud, Hybrid, etc).</li>
+          <li>Define, configure and maintain tools for improving DevOps journey thru automation (GitLab, Nexus, Jenkins, Ansible, Docker, Jira, Confluence, SonarQube).</li>
+          <li>Migration to cloud on Azure IaaS and PaaS.</li><li>Maintain J2EE development Framework based on open source.</li>
+          <li>Define Mobilty strategy including apps and mobile backend architecture.</li></ul>
 
 # Consultant
 - company: Atos Origin
