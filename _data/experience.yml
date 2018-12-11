@@ -14,37 +14,50 @@
   duration: Jul, 2011 &mdash; Aug, 2018
   summary: <ul class="resume-item-list">
           <li>Design and validate solution architectures to satisfy business requirements (Microservices, Events Hub, Iot, Big Data, Cloud, Hybrid, etc).</li>
-          <li>Define, configure and maintain tools for improving DevOps journey thru automation (GitLab, Nexus, Jenkins, Ansible, Docker, Jira, Confluence, SonarQube).</li>
-          <li>Migration to cloud on Azure IaaS and PaaS.</li><li>Maintain J2EE development Framework based on open source.</li>
-          <li>Define Mobilty strategy including apps and mobile backend architecture.</li></ul>
+          <div>Tech Stack&#58; Node, Angular, Spring Boot, Consul, Docker, Swarm, Kubernetes, Istio, PostgreSQL, Mongo, Redis, ELK, Kafka, Hadoop, etc. </div>
+          <li>Define, configure and maintain tools for improving DevOps journey thru automation (Jenkins, GitLab, Nexus, NPM, Maven, Gradle, SonarQube, Ansible, Docker, Jira, Confluence, Slack).</li>
+          <li>Migration to Cloud using Azure IaaS and PaaS services.</li><li>Maintain J2EE development Framework based on open source.</li>
+          <li>Define Mobilty strategy including apps and mobile backend architecture.</li>
+          <div>Tech Stack&#58; JEE, JSF, Spring, Spring Security, Oauth2, IAM, Camel, CXF, Quartz, Tomcat, JBOSS, WAS, Websphere, Oracle, DB2, Hybrid apps, Cordova, Ionic. </div>
+          </ul>
 
 # Consultant
 - company: Atos Origin
   position: Team Lead / Consultant
   duration:  Dic, 2007 &mdash; Jun, 2011
   summary: <ul class="resume-item-list"><li>Maintaining MC Mutual public and private website to get in touch with their partners, insured companies and insured self-employed people.</li>
+           <div>Tech Stack&#58; J2EE, Struts, Spring, Hibernate, Quartz, Tomcat, OpenCms, Oracle, ETLs (PowerCenter, ODI).</div>   
            <li>Defining a tool to generate brochures for saving products with complex math operations at Banc de Sabadell.</li>
+           <div>Tech Stack&#58; Java, Spring, FOP, iText, MathLab, J2EE, Framework SEAM.</div>
            <li>Maintaining Ticketing management system for TMB network.</li>
+           <div>Tech Stack&#58; J2EE, JSP, Struts, Spring, OC4J, SAP WAS.</div> 
            <li>Implement Deutsche Bank PKI platform using a third party product (TrustedX – SafeLayer).</li>
+           <div>Tech Stack&#58; J2EE, Spring, Web Services, Weblogic, Certificates, TrustedX.</div> 
            <li>PKI platform (signing, verifying, time-stamping documents) for Spanish insurance company MGS.</li>
+           <div>Tech Stack&#58; J2EE, Spring, Applets, JNLP, Websphere, Certificates, Bouncy Castle, iText.</div> 
            <li>J2ME TPL WEB Mobility Platform. Migrating existing application in C++ for PDA devices (windows ce) to J2ME for Nokia Phones.</li>
-           <li>Order Manager – KPN (Dutch Telco company) CRM that manages sales workflows on their internet products. Dashboard – New application to monitor OM sub-systems and other external systems.</li></ul>
+           <div>Tech Stack&#58; Java ME, 3G, Bluetooth, HTTP, Tomcat.</div> 
+           <li>Order Manager – KPN (Dutch Telco company) CRM that manages sales workflows on their internet products. Dashboard – New application to monitor OM sub-systems and other external systems.</li>
+           <div>Tech Stack&#58; Java, Struts, Spring, DAO, Ejbs, Ajax, OC4J, Oracle, TIBCO.</div> 
+           </ul>
 
 # Generalitat
 - company: T-Systems
   position: Team Lead
   duration:   May, 2006  &mdash; Dic, 2007
   summary: Defining backlog, designing and developing some e-Justicia.cat's program components. MGD – Global Database Model, LOPD, CGPJ Compatibility Test, SIG – Digital Signature, EDI – Text processor tool and TRA – workflow processor.
+          </br>Tech Stack&#58; Java, Struts, Spring, Hibernate, Ejbs, Ajax, Web Services, JasperReports, Weblogic, Oracle, Documentum, Solaris. 
 
 # Nissan
 - company: Atos Origin
   position: Team Lead
   duration:   Sep, 2004  &mdash; May, 2006
   summary: Defining backlog, designing and developing for NISSAN UK. DRAGON – Direct and Rapid Access to Global Ordering Network. System to support the specification, ordering and delivery of vehicles built in Japan, Europe and South Africa for the General Overseas Market.
-
+          </br>Tech Stack&#58; Java, Struts, Ejbs, Log4J, WebSphere, EntireX, Oracle, AIX, Web Services, RPCs, MQ Series.
 # Major Events
 - company: Atos Origin
   position: Team Lead / Developer
   duration:   Abr, 1997  &mdash; Aug, 2004
   summary: Delivering software for diferent major sporting events:<ul class="resume-item-list"><li>Torino 2006 Olympic Games</li><li>Athens 2004 Olympic Games</li><li>World Cup Korea/Japan 2002</li><li>Games Management Systems–Mediterranean Games 2001</li><li>Salt Lake 2002 Winter Games</li<li>Sydney 2000 Olympic Games</li><li>Asian Games Bangkok 98</li><li>Commonwealth Games Kualalumpur 98</li></ul>
-
+          Tech Stacks&#58; <ul class="resume-item-list"><li>Java, Servlets, XML, XSL, iPlanet, LDAP, Oracle, Solaris.</li>
+          <li>Visual Basic .NET, Crystal Reports, SQL Server, Windows.</li></ul>
