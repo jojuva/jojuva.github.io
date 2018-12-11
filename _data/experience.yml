@@ -1,8 +1,17 @@
 # Jobs
 # New Technologies
+- company: Innofis | Crealogix
+  position: Chief Architect
+  duration: Sep, 2018 &mdash; Present
+  summary: <ul class="resume-item-list">
+          <li>Responsible for designing architectures of complex systems mainly in huge banking environments, integrating the Omni-channel banking product within existing systems where possible and helping customers to drive their strategy to the latest IT trends.</li>
+          <li>Knowledge in all technical aspects but highly focused on Micro services, Cloud and DevOps processes.</li>
+          <li>Reference and a main point of contact for customers from early pre-sales to project execution and delivery.</li></ul>
+
+# New Technologies
 - company: Suez Spain
   position: PM / Solution Architect
-  duration: Jul, 2011 &mdash; Present
+  duration: Jul, 2011 &mdash; Aug, 2018
   summary: <ul class="resume-item-list">
           <li>Design and validate solution architectures to satisfy business requirements (Microservices, Events Hub, Iot, Big Data, Cloud, Hybrid, etc).</li>
           <li>Define, configure and maintain tools for improving DevOps journey thru automation (GitLab, Nexus, Jenkins, Ansible, Docker, Jira, Confluence, SonarQube).</li>
