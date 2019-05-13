@@ -6,7 +6,9 @@
   summary: <ul class="resume-item-list">
           <li>Responsible for designing architectures of complex systems mainly in huge banking environments, integrating the Omni-channel banking product within existing systems where possible and helping customers to drive their strategy to the latest IT trends.</li>
           <li>Knowledge in all technical aspects but highly focused on Micro services, Cloud and DevOps processes.</li>
-          <li>Reference and a main point of contact for customers from early pre-sales to project execution and delivery.</li></ul>
+          <li>Reference and a main point of contact for customers from early pre-sales to project execution and delivery.</li>
+          <li>Experience integrating different middlewares like Oracle Integration Cloud Service, Cordys, IBM MobileFirst, Websphere ESB. API publishing with IBM Connect, WSO2 API management solutions.</li>
+          </ul>
 
 # New Technologies
 - company: Suez Spain
@@ -16,7 +18,8 @@
           <li>Design and validate solution architectures to satisfy business requirements (Microservices, Events Hub, Iot, Big Data, Cloud, Hybrid, etc).</li>
           <div>Tech Stack&#58; Node, Angular, Spring Boot, Consul, Docker, Swarm, Kubernetes, Istio, PostgreSQL, Mongo, Redis, ELK, Kafka, Hadoop, etc. </div>
           <li>Define, configure and maintain tools for improving DevOps journey thru automation (Jenkins, GitLab, Nexus, NPM, Maven, Gradle, SonarQube, Ansible, Docker, Jira, Confluence, Slack).</li>
-          <li>Migration to Cloud using Azure IaaS and PaaS services.</li><li>Maintain J2EE development Framework based on open source.</li>
+          <li>Migration to Cloud using Azure IaaS and PaaS services.</li>
+          <li>Maintain J2EE development Framework based on open source to promote SOA. MS Biztalk as EAI platform to integrate legacy interfaces and Red Hat Fuse for new integrations between SAP, HOST, SIEBEL and other enterprise systems.</li>
           <li>Define Mobilty strategy including apps and mobile backend architecture.</li>
           <div>Tech Stack&#58; JEE, JSF, Spring, Spring Security, Oauth2, IAM, Camel, CXF, Quartz, Tomcat, JBOSS, WAS, Websphere, Oracle, DB2, Hybrid apps, Cordova, Ionic. </div>
           </ul>
@@ -32,7 +35,7 @@
            <li>Maintaining Ticketing management system for TMB network.</li>
            <div>Tech Stack&#58; J2EE, JSP, Struts, Spring, OC4J, SAP WAS.</div> 
            <li>Implement Deutsche Bank PKI platform using a third party product (TrustedX – SafeLayer).</li>
-           <div>Tech Stack&#58; J2EE, Spring, Web Services, Weblogic, Certificates, TrustedX.</div> 
+           <div>Tech Stack&#58; J2EE, Spring, Web Services, TIBCO, Weblogic, Certificates, TrustedX.</div> 
            <li>PKI platform (signing, verifying, time-stamping documents) for Spanish insurance company MGS.</li>
            <div>Tech Stack&#58; J2EE, Spring, Applets, JNLP, Websphere, Certificates, Bouncy Castle, iText.</div> 
            <li>J2ME TPL WEB Mobility Platform. Migrating existing application in C++ for PDA devices (windows ce) to J2ME for Nokia Phones.</li>
