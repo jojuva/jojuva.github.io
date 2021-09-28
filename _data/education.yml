@@ -1,16 +1,16 @@
 # Degree
-- degree: Computer Science
+- degree: Computing Engineering (5 years)
   uni: Universitat Oberta de Catalunya
   year: 2014
-  award: Computing Engineering (5 years)
+  #award: Computing Engineering (5 years)
   #summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: Sun Certified Programming for Java 6
   uni: Sun
   year: 2009
 
-- degree: Computer Science
+- degree: Computing Engineering (3 years)
   uni: Universitat Politècnica de Catalunya
   year: 1995
-  award: Computing Engineering (3 years)
+  #award: Computing Engineering (3 years)
   #summary: You can choose to have either a single or multiple awards
