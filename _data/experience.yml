@@ -1,16 +1,27 @@
 # Jobs
-# New Technologies
+# Finantial Institution
+- company: Banc Sabadell
+  position: Solutions Architect Lead
+  duration: Sep, 2020 &mdash; Present
+  summary: <ul class="resume-item-list">
+          <li>Responsible for managing Solutions Architecture Team.</li>
+          <li>Design technical solutions for internal application projects according to bank's digital transformation strategy.</li>
+          <li>Give technical support around platform definition for internal projects. Main Stack (Angular, Java, Maven, Kafka, Jenkins, Ansible, Docker, AWS EKS, Openshift, Apigee).</li>
+          <li>Promote product API design, online integrations, platform automation, CI/CD practices, secure development guidelines, etc.</li>
+          </ul>
+
+# Fintech
 - company: Innofis | Crealogix
   position: Chief Architect
-  duration: Sep, 2018 &mdash; Present
+  duration: Sep, 2018 &mdash; Aug, 2020
   summary: <ul class="resume-item-list">
           <li>Responsible for designing architectures of complex systems mainly in huge banking environments, integrating the Omni-channel banking product within existing systems where possible and helping customers to drive their strategy to the latest IT trends.</li>
           <li>Knowledge in all technical aspects but highly focused on Micro services, Cloud and DevOps processes.</li>
-          <li>Reference and a main point of contact for customers from early pre-sales to project execution and delivery.</li>
+          <li>Technical reference and a main point of contact for customers from early pre-sales to project execution and delivery.</li>
           <li>Experience integrating different middlewares like Oracle Integration Cloud Service, Cordys, IBM MobileFirst, Websphere ESB. API publishing with IBM Connect, WSO2 API management solutions.</li>
           </ul>
 
-# New Technologies
+# Utilities
 - company: Suez Spain
   position: PM / Solution Architect
   duration: Jul, 2011 &mdash; Aug, 2018
