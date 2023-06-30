@@ -1,8 +1,19 @@
 # Jobs
+# Tourism
+- company: TUI Musement
+  position: Lead Solutions Architect
+  duration: Jun, 2021 &mdash; Present
+  summary: <ul class="resume-item-list">
+          <li>Responsible for archtecture designs within Fulfilment and Corporate business domains.</li>
+          <li>Translate business requirements into viable technical transformation strategies, define technical vision TAM.</li>
+          <li>Promote standards, group policies, best practices and well known patterns. Main Stack (Vue, Java, Mongo, Kafka, Gitlab, Docker, AWS).</li>
+          <li>Interact and align with rest of architecture leads and technical stakeholders.</li>
+          </ul>
+
 # Finantial Institution
 - company: Banc Sabadell
   position: Solutions Architect Lead
-  duration: Sep, 2020 &mdash; Present
+  duration: Sep, 2020 &mdash; Jun, 2021
   summary: <ul class="resume-item-list">
           <li>Responsible for managing Solutions Architecture Team.</li>
           <li>Design technical solutions for internal application projects according to bank's digital transformation strategy.</li>
